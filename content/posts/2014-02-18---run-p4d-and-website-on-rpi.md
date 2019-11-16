@@ -54,6 +54,6 @@ Note: vim will start, perform a :wq [enter]
 
 Now you have a Perforce server and your versioned website running on your Raspberry Pi.
 
-*This is a slightly updated article that was [originally published](https://www.perforce.com/blog/140228/run-p4d-website-raspberry-pi) on the Perforce Corporate Blog.*
+*This is a slightly updated article that was [original published](https://github.com/lizlam/p4blog/blob/master/p4blog-run-p4d-and-website-on-raspberry-pi-02-28-2014.png) on the Perforce Corporate Blog.*
 
 
