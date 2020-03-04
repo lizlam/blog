@@ -64,4 +64,4 @@ Iterate, iterate, iterate.
 
 Conclusion
 ----------
-There are many other details in the book and though they are in the context of product manufacturing, I think the takeaways from it are invaluable to those of us in the software world. j
+There are many other details in the book and though they are in the context of product manufacturing, I think the takeaways from it are invaluable to those of us in the software world.
