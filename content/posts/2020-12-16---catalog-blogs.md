@@ -20,9 +20,9 @@ So with the help of the [Wayback Machine](https://archive.org/web/), I started c
 
 My process for this looked something like:
 
-1.) Find an old URL and look for it in the Wayback Machine
-2.) Save a PDF or PNG using a [Chrome extension](https://gofullpage.com/)
-3.) Commit to GitHub repo  
+1.) Find an old URL and look for it in the Wayback Machine    
+2.) Save a PDF or PNG using a [Chrome extension](https://gofullpage.com/)    
+3.) Commit to GitHub repo     
 
 Having a catalog in GitHub works pretty well since I can browse the articles pretty easily and previewing PDF's and PNG's are not a problem.
 
@@ -33,4 +33,4 @@ They feel just as relevant as any side coding project I've ever done.
 I also started collecting other articles I've written for other websites and made a [repo](https://github.com/lizlam/miscblogs) for those.
 
 
-In conclusion, if you have blogs on other platforms and websites that are not your own, it's a good idea to keep record of it.  I was only able to recover a fraction of what I've written in the past from the Wayback Machine, but that is a good place to start.  I would also recommend putting current blogs in a repo for posterity, because you never know when those references will experience link rot as well.
+In conclusion, if you have blogs on other platforms and websites that are not your own, it's a good idea to keep record of it.  I was only able to recover a fraction of what I've written in the past from the Wayback Machine, but that is a good place to start.  I would also recommend putting current blogs in a repo as a backup.  So catalog your blogs!  Give your future self a chance to take a peek back into the past and remember all the great things you wrote.
