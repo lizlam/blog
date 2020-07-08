@@ -1,6 +1,6 @@
 ---
 title: "Create Your Own Quote API with Netlify Functions - Part 2"
-date: "2020-07-07"
+date: "2020-07-01"
 template: "post"
 draft: false
 slug: "/posts/netlify-functions-quote-api-2"
