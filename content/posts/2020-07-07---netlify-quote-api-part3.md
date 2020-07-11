@@ -59,4 +59,4 @@ Start your dev environment if you haven't already with `netlify dev`.  Open up a
     
 Commit and push these new changes to GitHub.  This should trigger a redeploy on Netlify.  Once the redeploy is complete, you should be able to navigate to your public url and see the same thing. 
 
-Congratulations! You did it! You've created a quotes api, deployed it to Netlify and used the api in a React app.  Hopefully this example serves as a simple foundation on how to build api's with the power of serverless technologies.
+Congratulations! You did it! You've created a quotes API, deployed it to Netlify and used it in a React app. Hopefully this example serves as a simple foundation on how to build API's with the power of serverless technologies.
