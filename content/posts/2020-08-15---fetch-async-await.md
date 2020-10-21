@@ -1,5 +1,5 @@
 ---
-title: "How to use the fetch APi with and without async/await"
+title: "How to use the fetch API with and without async/await"
 date: "2020-08-15"
 template: "post"
 draft: false
