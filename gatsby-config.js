@@ -139,15 +139,6 @@ module.exports = {
       }
     },
     {
-      resolve: 'gatsby-plugin-google-gtag',
-      options: {
-        trackingIds: [siteConfig.googleAnalyticsId],
-        pluginConfig: {
-          head: true,
-        },
-      },
-    },
-    {
       resolve: 'gatsby-plugin-sitemap',
       options: {
         query: `
@@ -200,6 +191,20 @@ module.exports = {
         cssLoaderOptions: {
           camelCase: false,
         }
+      }
+    },
+    {
+      resolve: 'gatsby-plugin-fathom',
+      options: {
+        // Fathom server URL. Defaults to `cdn.usefathom.com`
+        trackingUrl: 'go.mazarbul.net:9000',
+        // Unique site id
+        siteId: 'IEXRO',
+        // Domain whitelist
+        whitelistHostnames: [
+          'yoursite.com',
+          'www.yoursite.com'
+        ]
       }
     },
     'gatsby-plugin-flow',
