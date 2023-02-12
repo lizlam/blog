@@ -13,7 +13,7 @@ to jot down my thoughts about the book so far.
 
 Although the book is slightly dated (2011), it reads really well and is very digestible.  I've done a couple of projects in Ruby in the past, but found that the chapter opened my eyes to why Ruby was designed the way it was.  For example, it really was designed with the developer's experience in mind as oppose to performance.  All the code samples work (though some of the output might be slightly different) and it's a great introduction to this language.
 
-I found this to be less true with the Io chapter.  Most of the trivial code samples worked, but unfortunately, none of the ones that involved http request did.  This was a bit disapointing.  I use JavaScript in my day to day work.  Io is a prototypal language and I was hoping it would help me understand JavaScript (also a prototypal language) more.  I believe it did accomplish this.
+I found this to be less true with the Io chapter.  Most of the trivial code samples worked, but unfortunately, none of the ones that involved http request did.  This was a bit disappointing.  I use JavaScript in my day to day work.  Io is a prototypal language and I was hoping it would help me understand JavaScript (also a prototypal language) more.  I believe it did accomplish this.
 
 The Prolog chapter was very interesting. The code almost seemed like axioms from which you derived your proofs.  The language is rule based and is very different from how I think of programming.  This chapter probably stretched my brain the most, but is so far the most disappointing in terms of getting the code samples to work.  
 

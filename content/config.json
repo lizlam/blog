@@ -1,0 +1,47 @@
+{
+  "title": "Blog by grepliz",
+  "url": "https://grepliz.netlify.app",
+  "subtitle": "Random tech blogs (mostly).",
+  "copyright": "© All rights reserved.",
+  "googleAnalyticsId": "UA-73379983-2",
+  "disqusShortname": "",
+  "postsLimit": 4,
+  "pathPrefix": "/",
+  "menu": [
+    {
+      "label": "Articles",
+      "path": "/"
+    },
+    {
+      "label": "About me",
+      "path": "/pages/about"
+    },
+    {
+      "label": "Contact me",
+      "path": "/pages/contacts"
+    }
+  ],
+  "author": {
+    "name": "grepliz",
+    "photo": "/photo.jpg",
+    "bio": "I love coffee, coding and writing.",
+    "contacts": {
+      "rss": "",
+      "email": "",
+      "github": "lizlam",
+      "facebook": "",
+      "telegram": "",
+      "twitter": "grepliz",
+      "linkedin": "",
+      "instagram": "grepliz",
+      "mastodon": "",
+      "line": "",
+      "weibo": "",
+      "gitlab": "",
+      "medium": "",
+      "youtube": "",
+      "codepen": "",
+      "soundcloud": ""
+    }
+  }
+}
