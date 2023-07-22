@@ -4,7 +4,7 @@ date: "2023-07-21"
 template: "post"
 draft: false
 slug: "/posts/jq-p4-changes"
-category: "blogs"
+category: "p4"
 description: "Create JSON formatted data from p4 changes output."
 ---
 
