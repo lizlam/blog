@@ -4,9 +4,13 @@ date: "2023-07-21"
 template: "post"
 draft: false
 slug: "/posts/jq-p4-changes"
-category: "p4"
+category: p4
+tags:
+  - p4
+  - jq
 description: "Create JSON formatted data from p4 changes output."
 ---
+*UPDATE: Just a few days after hitting publish on this blog, a few folks from the Perforce community shared a better way to output JSON data from p4 commands using the `-ztag` and `-Mj` flags: `p4 -ztag -Mj changes -m3 | jq -s '.'`*
 
 I recently ran across [this blog](https://til.simonwillison.net/jq/git-log-json) showing how to use `jq` to format `git log` output to JSON.  Curious about `jq` and wanting to try a similar thing with Perforce, I was able to modify the example pretty easily.
 
